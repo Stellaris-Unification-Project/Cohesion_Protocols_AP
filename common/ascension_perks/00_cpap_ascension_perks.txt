@@ -1,0 +1,22 @@
+ap_cpap_cohesion_protocols = {
+	modifier = {
+		country_resource_unity_mult = 0.15
+		country_core_sector_system_cap = 2
+		tradition_cost_num_colonies_mult = -0.05
+	}
+	
+	potential = {
+		has_authority = auth_machine_intelligence
+		NOT = {
+			has_ascension_perk = ap_cpap_cohesion_protocals
+		}
+	}
+	
+	
+	ai_weight = {
+		factor = 10
+	}
+}
+
+
+
