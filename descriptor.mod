@@ -6,4 +6,4 @@ tags={
 }
 picture="cohesionprotocols.jpg"
 remote_file_id="1327649605"
-supported_version="2.0.2"
+supported_version="3.2.2"
